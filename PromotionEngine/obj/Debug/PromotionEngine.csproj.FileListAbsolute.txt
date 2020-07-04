@@ -1,0 +1,160 @@
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\PromotionEngine.dll.config
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\PromotionEngine.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\PromotionEngine.pdb
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\csc.exe
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\csc.exe.config
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\csc.rsp
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\csi.exe
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\csi.exe.config
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\csi.rsp
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.AppContext.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Console.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.Compression.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.Pipes.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Claims.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.ValueTuple.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\vbc.exe
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\vbc.exe.config
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\vbc.rsp
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\VBCSCompiler.exe
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Antlr3.Runtime.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Newtonsoft.Json.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.Helpers.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.Mvc.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.Optimization.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.Razor.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\WebGrease.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.Helpers.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.Mvc.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.Optimization.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.Razor.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Newtonsoft.Json.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Antlr3.Runtime.pdb
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CopyComplete
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\PromotionEngine.dll.config
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\PromotionEngine.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\PromotionEngine.pdb
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\csc.exe
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\csc.exe.config
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\csc.rsp
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\csi.exe
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\csi.exe.config
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\csi.rsp
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.AppContext.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Collections.Immutable.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Console.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.Compression.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.FileSystem.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.IO.Pipes.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Reflection.Metadata.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.AccessControl.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Claims.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Security.Principal.Windows.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.ValueTuple.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Xml.XPath.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\vbc.exe
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\vbc.exe.config
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\vbc.rsp
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\VBCSCompiler.exe
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\roslyn\VBCSCompiler.exe.config
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Antlr3.Runtime.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Newtonsoft.Json.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Diagnostics.DiagnosticSource.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.Helpers.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.Mvc.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.Optimization.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.Razor.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.Deployment.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.Razor.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\WebGrease.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.Helpers.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.Mvc.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.Optimization.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.Razor.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.Deployment.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Web.WebPages.Razor.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Newtonsoft.Json.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Antlr3.Runtime.pdb
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\System.Diagnostics.DiagnosticSource.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CopyComplete
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb

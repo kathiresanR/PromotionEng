@@ -1,0 +1,86 @@
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.Tests.dll.config
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.Tests.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.Tests.pdb
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.pdb
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.dll.config
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.csprojAssemblyReference.cache
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.csproj.CoreCompileInputs.cache
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.csproj.CopyComplete
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.pdb
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Castle.Core.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Fakes.Contrib.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\nunit.framework.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Castle.Core.xml
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\Fakes.Contrib.pdb
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\senthilkumar\source\repos\PromotionEngine\PromotionEngine.Tests\bin\Debug\nunit.framework.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.Tests.dll.config
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.Tests.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.Tests.pdb
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Castle.Core.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Fakes.Contrib.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\nunit.framework.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Helpers.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Mvc.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Razor.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Optimization.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.pdb
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\PromotionEngine.dll.config
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Castle.Core.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Fakes.Contrib.pdb
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\nunit.framework.pdb
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\nunit.framework.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Helpers.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Mvc.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Razor.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\bin\Debug\System.Web.Optimization.xml
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.csprojAssemblyReference.cache
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.csproj.CoreCompileInputs.cache
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.csproj.CopyComplete
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.dll
+C:\kathiresan\Project work\PromotionEngine\PromotionEngine.Tests\obj\Debug\PromotionEngine.Tests.pdb
